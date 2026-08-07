@@ -24,3 +24,11 @@ Thumbs.db
 venv/
 .venv/
 env/
+
+# Personal secret files
+AI_Evolution_Intro_Course.md
+AI_Engineering_Foundations_Notes.md
+
+# Templates
+_TEMPLATE/
+
