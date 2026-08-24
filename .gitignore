@@ -6,6 +6,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.db
+*.sqlite
+*.sqlite3
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
