@@ -1,0 +1,4 @@
+gradio>=5.0.0
+pydantic<=2.10.6
+datasets>=2.14.0
+huggingface_hub>=0.20.0
